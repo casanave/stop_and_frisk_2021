@@ -10,7 +10,8 @@ Precinct geojson file:
 https://www1.nyc.gov/site/planning/data-maps/open-data/districts-download-metadata.page
 
 Preview of Results: 
-![Stop and Frisk 2021 Demographic Overview](https://user-images.githubusercontent.com/8728172/188284762-dd4cff7e-04a3-4e10-a7dd-6a459ad73e97.png)
+
+![Stop and Frisk 2021 Demographic Overview](https://user-images.githubusercontent.com/8728172/188288933-d1bc3329-645f-4bb1-ba3c-5044cbea2cfe.png)
 
 
 
