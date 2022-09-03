@@ -11,7 +11,7 @@ https://www1.nyc.gov/site/planning/data-maps/open-data/districts-download-metada
 
 Preview of Results: 
 
-![Stop and Frisk 2021 Demographic Overview](https://user-images.githubusercontent.com/8728172/188279154-62d6654f-1079-4640-b3a8-6e62da703b7b.png)
+![Stop and Frisk 2021 Demographic Overview](https://user-images.githubusercontent.com/8728172/188284400-eefd5ba6-2428-49dc-b93c-ce68b0e5963e.png)
 
 
 Results: https://public.tableau.com/views/StopandFrisk2021NYPD/StopandFrisk2021DemographicOverview?:language=en-US&:display_count=n&:origin=viz_share_link
